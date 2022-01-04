@@ -1,1 +1,3 @@
-This is a simple calculator project using React.js.# simple-calculator
+![Screenshot](screenshot.png)
+
+Simple calculator project using React.js. Product of my personal studies.
